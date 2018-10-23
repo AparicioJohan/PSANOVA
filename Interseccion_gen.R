@@ -2,7 +2,7 @@
 
 # BASE DE DATOS INTERSECCIÓN 
 
-# Base de datos  ####
+
 
 rm(list=ls())
 
